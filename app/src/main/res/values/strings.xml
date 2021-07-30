@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spotify</string>
+    <string name="title">Welcome to my Project</string>
+    <string name="username">UserName</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already">Already have an Account</string>
+    <string name="dont">if you dont have an Account</string>
+    <string name="login">Login</string>
+    <string name="signin">SignUp</string>
+</resources>
